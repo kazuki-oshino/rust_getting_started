@@ -36,10 +36,3 @@ fn main() {
     }
     println!("LIFTOFF!");
 }
-
-
-
-
-
-
-
